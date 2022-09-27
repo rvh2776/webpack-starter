@@ -4,7 +4,7 @@ Proyecto (cascaron) para crear aplicaciones utilizando Webpack.
 
 ### Notas:
 
-Descargar y resconstruir los modulos de Node.
+Descargar y reconstruir los modulos de Node.
 
 ```
 npm install
